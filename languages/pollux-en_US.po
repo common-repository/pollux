@@ -1,0 +1,334 @@
+# Copyright (C) 2019 pollux
+# This file is distributed under the same license as the pollux package.
+msgid ""
+msgstr ""
+"Project-Id-Version: pollux\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Gemini Labs <support@geminilabs.io>\n"
+"Last-Translator: Paul Ryley <paul@geminilabs.io>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Keywordslist: "
+"__;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_"
+"attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Searchpath-0: .\n"
+"X-Poedit-Searchpathexcluded-0: *.js\n"
+"X-Poedit-Sourcecharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#: activate.php:96
+msgid "The %s plugin was deactivated."
+msgstr "The %s plugin was deactivated."
+
+#: activate.php:97
+msgid "This plugin requires %s or greater in order to work properly."
+msgstr "This plugin requires %s or greater in order to work properly."
+
+#: activate.php:98
+msgid ""
+"Please contact your hosting provider or server administrator to upgrade the "
+"version of PHP on your server (your server is running PHP version %s), or "
+"try to find an alternative plugin."
+msgstr ""
+"Please contact your hosting provider or server administrator to upgrade the "
+"version of PHP on your server (your server is running PHP version %s), or "
+"try to find an alternative plugin."
+
+#: activate.php:99
+msgid "PHP version"
+msgstr "PHP version"
+
+#: activate.php:100
+msgid "WordPress version"
+msgstr "WordPress version"
+
+#: activate.php:101
+msgid "Update WordPress"
+msgstr "Update WordPress"
+
+#: activate.php:102
+msgid "You can use the %s plugin to restore %s to the previous version."
+msgstr "You can use the %s plugin to restore %s to the previous version."
+
+#: src/Controller.php:32
+msgid "Settings Disabled"
+msgstr "Settings Disabled"
+
+#: src/Controller.php:33
+msgid "Settings"
+msgstr "Settings"
+
+#: src/GateKeeper.php:182
+msgid "Pollux requires the latest version of the following plugins"
+msgstr "Pollux requires the latest version of the following plugins"
+
+#: src/Notice.php:52
+msgid "Activate"
+msgstr "Activate"
+
+#: src/Notice.php:97
+msgid "Install"
+msgstr "Install"
+
+#: src/Notice.php:111
+msgid "Update"
+msgstr "Update"
+
+#: src/Config/Config.php:64, src/Config/Config.php:65
+msgid "Pollux"
+msgstr "Pollux"
+
+#: src/Config/Config.php:95
+msgid "Pollux Settings"
+msgstr "Pollux Settings"
+
+#: src/Config/Config.php:114, src/Settings/Settings.php:223
+msgid "Reset successful."
+msgstr "Reset successful."
+
+#: src/Config/Config.php:117, src/Settings/Settings.php:226
+msgid "Failed to reset. Please try again."
+msgstr "Failed to reset. Please try again."
+
+#: src/MetaBox/Instruction.php:74
+msgid "How to use in your theme"
+msgstr "How to use in your theme"
+
+#: src/PostType/Archive.php:84
+msgid "Save Archive"
+msgstr "Save Archive"
+
+#: src/PostType/Archive.php:133, src/PostType/Columns.php:110
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: src/PostType/Archive.php:189
+msgid "Set Featured Image"
+msgstr "Set Featured Image"
+
+#: src/PostType/Archive.php:192
+msgid "Click the image to edit or update"
+msgstr "Click the image to edit or update"
+
+#: src/PostType/Archive.php:196
+msgid "Remove featured image"
+msgstr "Remove featured image"
+
+#: src/PostType/Columns.php:104
+msgid "Author"
+msgstr "Author"
+
+#: src/PostType/Columns.php:105
+msgid "Categories"
+msgstr "Categories"
+
+#: src/PostType/Columns.php:106
+msgid "Comments"
+msgstr "Comments"
+
+#: src/PostType/Columns.php:107
+msgid "Date"
+msgstr "Date"
+
+#: src/PostType/Columns.php:108
+msgid "Media"
+msgstr "Media"
+
+#: src/PostType/Columns.php:109
+msgid "Slug"
+msgstr "Slug"
+
+#: src/PostType/Columns.php:111
+msgid "Title"
+msgstr "Title"
+
+#: src/PostType/PostType.php:110
+msgid "Add New"
+msgstr "Add New"
+
+#: src/Settings/Settings.php:69
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: src/Settings/Settings.php:147, src/Settings/Settings.php:148, src/Settings/Settings.php:188
+msgid "Site Settings"
+msgstr "Site Settings"
+
+#: src/Settings/Settings.php:174, views/config/script.php:7
+msgid "Are you sure want to do this?"
+msgstr "Are you sure want to do this?"
+
+#: src/Settings/Settings.php:206
+msgid "Reset all"
+msgstr "Reset all"
+
+#: src/Settings/Settings.php:208
+msgid "Save"
+msgstr "Save"
+
+#: views/archive/index.php:15
+msgid "Enter title here"
+msgstr "Enter title here"
+
+#: views/archive/index.php:27
+msgid "Word count: %s"
+msgstr "Word count: %s"
+
+#: views/config/index.php:7
+msgid "General"
+msgstr "General"
+
+#: views/config/index.php:8, views/config/index.php:58
+msgid "Taxonomies"
+msgstr "Taxonomies"
+
+#: views/config/index.php:9, views/config/index.php:72
+msgid "Post Types"
+msgstr "Post Types"
+
+#: views/config/index.php:10
+msgid "Meta Boxes"
+msgstr "Meta Boxes"
+
+#: views/config/index.php:11
+msgid "Documentation"
+msgstr "Documentation"
+
+#: views/config/index.php:26
+msgid "Disable Posts"
+msgstr "Disable Posts"
+
+#: views/config/index.php:31
+msgid "Enable Archive Page"
+msgstr "Enable Archive Page"
+
+#: views/config/index.php:36
+msgid "Remove Dashboard Widgets"
+msgstr "Remove Dashboard Widgets"
+
+#: views/config/index.php:41
+msgid "Remove the WordPress Admin Footer"
+msgstr "Remove the WordPress Admin Footer"
+
+#: views/config/index.php:46
+msgid "Remove the WordPress Menu From the Admin Bar"
+msgstr "Remove the WordPress Menu From the Admin Bar"
+
+#: views/config/index.php:81
+msgid "Post Type Columns"
+msgstr "Post Type Columns"
+
+#: views/config/index.php:95
+msgid "Archive Meta Boxes"
+msgstr "Archive Meta Boxes"
+
+#: views/config/index.php:104, views/config/index.php:116, views/config/index.php:125
+msgid "This field requires the Meta Box plugin."
+msgstr "This field requires the Meta Box plugin."
+
+#: views/config/index.php:105
+msgid "Archive Page is not enabled."
+msgstr "Archive Page is not enabled."
+
+#: views/config/index.php:113
+msgid "Post Type Meta Boxes"
+msgstr "Post Type Meta Boxes"
+
+#: views/config/index.php:122
+msgid "Site Settings Meta Boxes"
+msgstr "Site Settings Meta Boxes"
+
+#: views/config/index.php:137, views/config/index.php:206, views/config/index.php:259, views/config/index.php:296, views/config/index.php:380, views/config/index.php:455, views/config/index.php:617
+msgid "Toggle documentation panel"
+msgstr "Toggle documentation panel"
+
+#: views/config/index.php:864
+msgid "Reset to Defaults"
+msgstr "Reset to Defaults"
+
+#: src/PostType/Archive.php:146, src/PostType/Archive.php:147, src/PostType/Archive.php:213
+msgctxt "post archive"
+msgid "%s Archive"
+msgstr "%s Archive"
+
+#: src/PostType/PostType.php:111
+msgctxt "Add new post"
+msgid "Add New %s"
+msgstr "Add New %s"
+
+#: src/PostType/PostType.php:112
+msgctxt "All posts"
+msgid "All %s"
+msgstr "All %s"
+
+#: src/PostType/PostType.php:113
+msgctxt "Edit post"
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: src/PostType/PostType.php:116
+msgctxt "New post"
+msgid "New %s"
+msgstr "New %s"
+
+#: src/PostType/PostType.php:117
+msgctxt "No posts found"
+msgid "No %s found"
+msgstr "No %s found"
+
+#: src/PostType/PostType.php:118
+msgctxt "No posts found in trash"
+msgid "No %s found in Trash"
+msgstr "No %s found in Trash"
+
+#: src/PostType/PostType.php:119
+msgctxt "Search posts"
+msgid "Search %s"
+msgstr "Search %s"
+
+#: src/PostType/PostType.php:121
+msgctxt "View post"
+msgid "View %s"
+msgstr "View %s"
+
+#: src/Taxonomy/Taxonomy.php:152
+msgctxt "Add new taxonomy"
+msgid "Add New %s"
+msgstr "Add New %s"
+
+#: src/Taxonomy/Taxonomy.php:153
+msgctxt "All taxonomies"
+msgid "All %s"
+msgstr "All %s"
+
+#: src/Taxonomy/Taxonomy.php:154
+msgctxt "Edit taxonomy"
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: src/Taxonomy/Taxonomy.php:157
+msgctxt "New taxonomy name"
+msgid "New %s Name"
+msgstr "New %s Name"
+
+#: src/Taxonomy/Taxonomy.php:158
+msgctxt "No taxonomies found"
+msgid "No %s found"
+msgstr "No %s found"
+
+#: src/Taxonomy/Taxonomy.php:159
+msgctxt "Search taxonomies"
+msgid "Search %s"
+msgstr "Search %s"
+
+#: src/Taxonomy/Taxonomy.php:161
+msgctxt "Update taxonomy"
+msgid "Update %s"
+msgstr "Update %s"
+
+#: src/Taxonomy/Taxonomy.php:162
+msgctxt "View taxonomy"
+msgid "View %s"
+msgstr "View %s"
